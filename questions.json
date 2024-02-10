@@ -1,0 +1,28 @@
+[
+    {
+      "correctAnswer": "3rd",
+      "options": ["1st", "2nd ", "3rd", "None of the above"],
+      "question": "You're 4th place right now in a race. What place will you be in when you pass the person in 3rd place?"
+    },
+    {
+      "correctAnswer": "All of them",
+      "options": ["2", "1", "All of them", "Depends if it is a leap year"],
+      "question": "How many months have 28 days?"
+    },
+    {
+      "correctAnswer": "70",
+      "options": ["50", "40.5", "70", "Caught You! None of the above"],
+      "question": "Divide 30 by half and add ten."
+    },
+    {
+      "correctAnswer": "Jimmy",
+      "options": ["None", "Paul III", "Jimmy", "Jerin"],
+      "question": "Jimmy's father has three sons- Paul I and Paul II. Can you guess the name of the third son?"
+    },
+    {
+      "correctAnswer": "Crocodiles",
+      "options": ["Elephant", "Giraffe", "Crocodiles", "Mouse"],
+      "question": "Which animal cannot stick his tongue?"
+    }
+  ]
+  
